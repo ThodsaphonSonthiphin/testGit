@@ -6,5 +6,5 @@ projectName subject
 
 #How
 
-Resolve: #5555
-See also: #ss, #xxxx
+#Resolve: #5555
+#See also: #ss, #xxxx
